@@ -1,12 +1,60 @@
+.header {
+    background-color:  #148F77;
+    color:whitesmoke;
+    height: 70px;
+  }
+  
+.header-logo {
+    float: left;
+    font-size: 36px;
+    padding:10px 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+  }
+
 body{
-    background-color:#b8c1ec;
+    background-image: url(https://i.ibb.co/0sCbZmm/haikei.jpg);
+    padding:0px;
 }
 h2{
     color:#d9376e;
 }
 .btn a{
-    background-color:blanchedalmond;
+    background-color:black;
     color:blue;
     font-size:20px;
     font-family:"Bitter",serif;
+}
+
+
+li {
+    list-style: none;
+    float: left;
+    padding:22px 20px;
+    
+  }
+.copy-container h1{
+    font-size:40px;
+}
+.copy-container span{
+    color:whitesmoke;
+}
+.main{
+    padding: 0px 40px;
+}
+.contents{
+    height:500px;
+}
+.contents-item{
+    float:left;
+}
+.footer{
+    height: 60px;
+    padding: 20px;
+    background-color:#154360;
+}
+.footer-logo{
+    float:left;
+    font-size: 30px;
+    color:whitesmoke;
 }
