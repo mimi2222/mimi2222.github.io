@@ -13,8 +13,8 @@
   }
 
 body{
-    background-image: url(https://i.ibb.co/0sCbZmm/haikei.jpg);
-    padding:0px;
+    background-image: url(https://i.ibb.co/HBf6Z2D/Mosaic-tile03-768x480.jpg);
+    margin:0px 0px;
 }
 h2{
     color:#d9376e;
@@ -37,7 +37,7 @@ li {
     font-size:40px;
 }
 .copy-container span{
-    color:whitesmoke;
+    color:#D98880;
 }
 .main{
     padding: 0px 40px;
